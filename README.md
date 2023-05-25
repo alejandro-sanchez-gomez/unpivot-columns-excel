@@ -4,8 +4,9 @@ An excel macro to unpivot columns.
 
 ### Table Of Contents
 
+- [What does "Unpivot a Column" mean?](#what-does-"unpivot-a-column"-mean?)
 - [Installation](#installation)
-- [Documentation](#documentation)
+- [Tutorial](#tutorial)
 - [Contributing](#contributing)
 - [License and Credits](#license-and-credits)
 
@@ -25,7 +26,7 @@ Source: https://support.microsoft.com/en-us/office/unpivot-columns-power-query-0
 
 The macro has been successfully installed!
 
-### How to use it
+### Tutorial
 
 In order for the macro to work, follow these instructions:
 
