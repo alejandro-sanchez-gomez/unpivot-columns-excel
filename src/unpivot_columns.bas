@@ -1,4 +1,3 @@
-Attribute VB_Name = "unpivot_columns"
 Sub unpivot_columns()
 Attribute unpivot_columns.VB_ProcData.VB_Invoke_Func = "P\n14"
 '
