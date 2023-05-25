@@ -5,25 +5,25 @@ An algorithm to unpivot columns in excel given certain conditions.
 ### Table Of Contents
 
 - [Installation](#installation)
-  - [AnkiWeb](#-ankiweb)
-  - [Manual](#-manual)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [License and Credits](#license-and-credits)
 
 ### Installation
 
-#### -AnkiWeb
+0. Open the workbook that you want to import the macro. 
+1. Enable the Developer tab on the File tab. Then Options/Customize Ribbon/Developer.
+2. Open the VBE, either by pressing Alt + F11 on your keyboard or by opening the Visual Basic option in the Developer tab.
+3. Right-click the VBAProject with your workbook's name, then select the option Import File.
+4. Select the .bas file.
+5. Select your desired option (by default, select Yes).
 
-You can install this addon automatically throught AnkiWeb.
+The macro has been successfully installed!
 
-#### -Manual
+### How to use it
 
-Description
-
-### Documentation
-
-For further information on the use of this macro please check out the [description text](https://github.com/Levantino-Engineering/unpivot-columns-excel/blob/main/DESCRIPTION.md).
+There are two ways to use it:
+- Use the shorcut CTRL + SHIFT + P. You can change the shorcut by selecting the Macros option on the Developer tab, then select
 
 ### Contributing
 
