@@ -8,7 +8,7 @@ The format of this file is based on [Keep a Changelog](https://keepachangelog.co
 
 -----
 
-[1.0.0]: https://github.com/Levantino-Engineering/dont-rush-review/compare/v0.1.0...HEAD
+[1.0.0]: https://github.com/Levantino-Engineering/unpivot-columns-excel/compare/v1.0.0...v1.0.0
 
 
 
