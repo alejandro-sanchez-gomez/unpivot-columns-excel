@@ -11,19 +11,24 @@ An algorithm to unpivot columns in excel given certain conditions.
 
 ### Installation
 
-0. Open the workbook that you want to import the macro. 
+0. Open or create the macro-enabled workbook that you want to import the macro. 
 1. Enable the Developer tab on the File tab. Then Options/Customize Ribbon/Developer.
 2. Open the VBE, either by pressing Alt + F11 on your keyboard or by opening the Visual Basic option in the Developer tab.
 3. Right-click the VBAProject with your workbook's name, then select the option Import File.
 4. Select the .bas file.
-5. Select your desired option (by default, select Yes).
 
 The macro has been successfully installed!
 
 ### How to use it
 
 There are two ways to use it:
-- Use the shorcut CTRL + SHIFT + P. You can change the shorcut by selecting the Macros option on the Developer tab, then select
+
+- By using the default assigned shorcut CTRL + SHIFT + P (to change it, see [Configuration](#configuration)
+- By running the macro on Macro options located at the Developer tab.
+
+### Configuration
+
+You can change the shorcut by selecting Macro options located at the Developer tab, then press Options
 
 ### Contributing
 
