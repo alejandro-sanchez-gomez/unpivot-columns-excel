@@ -62,4 +62,4 @@ Licensed under the _GNU AGPLv3_, extended by a number of additional terms. This 
 
 ----------------------------------------------------------
 
-[Table Of Contents](#table-of-contents)
+Return to the [Table Of Contents](#table-of-contents)
