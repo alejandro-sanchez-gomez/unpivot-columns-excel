@@ -2,15 +2,15 @@
 
 An excel macro to unpivot columns.
 
-### Table Of Contents
+### Table of Contents
 
-- [Unpivotting a column](#unpivotting-a-column)
+- [Unpivotting a Column](#unpivotting-a-column)
 - [Installation](#installation)
 - [Tutorial](#tutorial)
 - [Contributing](#contributing)
 - [License and Credits](#license-and-credits)
 
-### Unpivotting a column
+### Unpivotting a Column
 
 ![](https://github.com/Levantino-Engineering/unpivot-columns-excel/blob/main/screenshots/unpivot_column_definition.png)
 
@@ -59,3 +59,7 @@ Contributions are welcome! Please review the contribution guidelines on how to:
 *Copyright © 2023 [Alejandro Sánchez](https://github.com/Levantino-Engineering) (Levantino Engineering)*
 
 Licensed under the _GNU AGPLv3_, extended by a number of additional terms. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. For more information on the license please see the [LICENSE file](https://github.com/Levantino-Engineering/unpivot-columns-excel/blob/main/LICENSE.txt) accompanying this add-on. The source code is available on [GitHub](https://github.com/Levantino-Engineering).
+
+----------------------------------------------------------
+
+[Table Of Contents](#table-of-contents)
