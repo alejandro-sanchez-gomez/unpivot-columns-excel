@@ -1,6 +1,6 @@
-# Unpivot | An Excel Macro
+# Unpivot Columns | An Excel Macro
 
-An excel macro to unpivot columns given certain conditions.
+An excel macro to unpivot columns.
 
 ### Table Of Contents
 
@@ -9,11 +9,17 @@ An excel macro to unpivot columns given certain conditions.
 - [Contributing](#contributing)
 - [License and Credits](#license-and-credits)
 
+### What does "Unpivot a Column" mean?
+
+![](https://github.com/Levantino-Engineering/unpivot-columns-excel/blob/main/screenshots/unpivot_column_definition.png)
+
+Source: https://support.microsoft.com/en-us/office/unpivot-columns-power-query-0f7bad4b-9ea1-49c1-9d95-f588221c7098
+
 ### Installation
 
 0. Open or create the macro-enabled workbook that you want to import the macro. 
 1. Enable the Developer tab on the File tab. Then Options/Customize Ribbon/Developer.
-2. Open the VBE, either by pressing Alt + F11 on your keyboard or by opening the Visual Basic option in the Developer tab.
+2. Open the VBE, either by pressing Alt + F11 on your keyboard or by opening the Visual Basic command in the Developer tab.
 3. Right-click the VBAProject with your workbook's name, then select the option Import File.
 4. Select the .bas file.
 
@@ -21,14 +27,15 @@ The macro has been successfully installed!
 
 ### How to use it
 
+In order for the macro to work, follow these instructions:
+0. Move the table you want to unpivot the columns
+
 There are two ways to use it:
 
-- By using the default assigned shorcut CTRL + SHIFT + P (to change it, see [Configuration](#configuration)
-- By running the macro on Macro options located at the Developer tab.
+- By using the default assigned shorcut CTRL + SHIFT + P. You can change the shorcut by selecting the Macro command located at the Developer tab, then pressing Options.
+- By running the macro on the Macro command located at the Developer tab.
 
-### Configuration
 
-You can change the shorcut by selecting Macro options located at the Developer tab, then press Options
 
 ### Contributing
 
