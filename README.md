@@ -4,7 +4,7 @@ An excel macro to unpivot columns.
 
 ### Table Of Contents
 
-- [What does "Unpivot a Column" mean?](#what-does-"unpivot-a-column"-mean?)
+- [Unpivotting a column](#unpivotting-a-column)
 - [Installation](#installation)
 - [Tutorial](#tutorial)
 - [Contributing](#contributing)
