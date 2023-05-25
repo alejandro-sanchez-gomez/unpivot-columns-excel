@@ -10,7 +10,7 @@ An excel macro to unpivot columns.
 - [Contributing](#contributing)
 - [License and Credits](#license-and-credits)
 
-### What does "Unpivot a Column" mean?
+### Unpivotting a column
 
 ![](https://github.com/Levantino-Engineering/unpivot-columns-excel/blob/main/screenshots/unpivot_column_definition.png)
 
