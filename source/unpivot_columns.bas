@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub unpivot_columns()
 Attribute unpivot_columns.VB_Description = "For more information, check Options...\r\n\r\nDocumentation and usage:\r\nhttps://github.com/Levantino-Engineering/unpivot-columns-excel/tree/main"
 Attribute unpivot_columns.VB_ProcData.VB_Invoke_Func = "P\n14"
