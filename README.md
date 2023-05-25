@@ -1,6 +1,6 @@
 # Unpivot | An Excel Macro
 
-An algorithm to unpivot columns in excel given certain conditions.
+An excel macro to unpivot columns given certain conditions.
 
 ### Table Of Contents
 
