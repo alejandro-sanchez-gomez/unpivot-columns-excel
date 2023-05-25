@@ -32,15 +32,18 @@ In order for the macro to work, follow these instructions:
 0. Move the table you want to unpivot to an empty sheet
 1. Make sure the attributes are at the first row and start at the A2 cell. The cell A1 must be empty.
 
-Example:
+Here is an example:
 
 ![](https://github.com/Levantino-Engineering/unpivot-columns-excel/blob/main/screenshots/example/before_unpivot.png)
-![](https://github.com/Levantino-Engineering/unpivot-columns-excel/blob/main/screenshots/example/after_unpivot.png)
 
-There are two ways to use it:
+There are two ways to run the macro:
 
 - By using the default assigned shorcut CTRL + SHIFT + P. You can change the shorcut by selecting the Macro command located at the Developer tab, then pressing Options.
 - By running the macro on the Macro command located at the Developer tab.
+
+Here is the result:
+
+![](https://github.com/Levantino-Engineering/unpivot-columns-excel/blob/main/screenshots/example/after_unpivot.png)
 
 ### Contributing
 
